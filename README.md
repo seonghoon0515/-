@@ -1,1 +1,1 @@
-# JAVA book Example file
+# JAVA book Example code
