@@ -1,1 +1,1 @@
-# JAVA book Example code
+# 자바의 정석 실습코드 모음입니다.
